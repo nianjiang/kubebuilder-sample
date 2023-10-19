@@ -6,5 +6,5 @@ domain: tutorial.kubebuilder.io
 layout:
 - go.kubebuilder.io/v4
 projectName: kubebuilder-sample
-repo: tutorial.kubebuilder.io/project
+repo: tutorial.kubebuilder.io/kubebuilder-sample
 version: "3"

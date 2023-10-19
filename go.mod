@@ -1,4 +1,4 @@
-module tutorial.kubebuilder.io/project
+module tutorial.kubebuilder.io/kubebuilder-sample
 
 go 1.20
 
